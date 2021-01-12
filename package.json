@@ -1,0 +1,23 @@
+{
+  "name": "shelly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hallel9/shelly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hallel9/shelly/issues"
+  },
+  "homepage": "https://github.com/Hallel9/shelly#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
